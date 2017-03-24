@@ -7,7 +7,7 @@ A maven project to access Google Big Query
 This a maven based java project to access bigQuery datasets.
 # Prerequisite
 
-  - Need to have [Gloud SDK installed](https://cloud.google.com/sdk/docs/quickstarts)
+  - Need to have [Gcloud SDK installed](https://cloud.google.com/sdk/docs/quickstarts)
   - Setup and Install [BigQuery Client Libraries](https://cloud.google.com/bigquery/docs/reference/libraries)
 
 Here's an example of how to use the client library. To run it on your local workstation you must first install the Google Cloud SDK and authenticate by running the [following command](https://cloud.google.com/sdk/gcloud/reference/auth/application-default/login):
